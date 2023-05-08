@@ -1,2 +1,13 @@
-# alx-higher_level_programming
-Alx Software Engineering curriculum projects dealing with higher level languages. A high-level language is a programming language designed to simplify computer programming. High-level source code contains easy-to-read syntax that is later converted into a low-level language, which can be recognized and run by a specific CPU
+# Higher Level Programming Projects
+This repo contains all the projects that I have done in the alx software engineering programme on Higher level programming.
+
+
+## What Does High-Level Language (HLL) Mean?
+A high-level language is any programming language that enables development of a program in a much more user-friendly programming context and is generally independent of the computer's hardware architecture.
+
+A high-level language has a higher level of abstraction from the computer, and focuses more on the programming logic rather than the underlying hardware components such as memory addressing and register utilization.
+
+---
+
+## Author
+* **Henry W. Waswa** - [Henry-Waswa](https://github.com/Henry-Waswa)
