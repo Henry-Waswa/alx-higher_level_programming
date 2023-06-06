@@ -1,8 +1,6 @@
 # 0x09. Python - Everything is object
 ---
 ## Background Context
-Now that we understand that everything is an object and have a little bit of knowledge, let’s pause and look a little bit closer at how Python works with different types of objects.
-```
 This project is a little bit different than the usual projects. The first part is only questions about Python’s specificity like “What would be the result of…”. 
 You should read all documentation first (as usual :)), then take the time to think and brainstorm with your peers about what you think and why. 
 Try to do this without coding anything for a few hours.
@@ -17,7 +15,9 @@ Read or watch:
 * [Mutation](https://intranet.hbtn.io/rltoken/UbL96sV3cIxewdQPW_zwRw)
 * [9.12. Cloning lists](https://intranet.hbtn.io/rltoken/-t_1VsmKlgWHszL5y1YiKA)
 * [Python tuples: immutable but potentially changing](https://intranet.hbtn.io/rltoken/IdBAdTYNLuS3YpRRQIam6Q)
+
 ---
+
 ## Tests :heavy_check_mark:
 * [tests](./tests): Folder of test files.
 ## Tasks :page_with_curl:
