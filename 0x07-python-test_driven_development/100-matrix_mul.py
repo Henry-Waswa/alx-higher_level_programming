@@ -1,10 +1,5 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu May 21 17:43:34 2020
-
-@author: Robinson Montes
-"""
 
 
 def check_matrix(matrix, name):
